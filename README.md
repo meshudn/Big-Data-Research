@@ -1,6 +1,6 @@
 # Big-Data-Research
 
-We are research on Big Data Mining specially on Ensemble learning of big data under professor Md. Dewan Farid Sir. 
+We are researching on Big Data Mining specially on Ensemble learning with professor Md. Dewan Farid. 
 
 This repository is using for the collaboration between our team members.
 
